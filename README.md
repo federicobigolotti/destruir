@@ -1,0 +1,4 @@
+destruir
+========
+
+archivo para romper
